@@ -23,13 +23,40 @@ print(repeat("Deepi",4))
 
 #Write a Python program to get the n (non-negative integer) copies of the first 2 characters of a given string.
 # Return the n copies of the whole string if the length is less than 2.
-from 23 https://www.w3resource.com/python-exercises/python-basic-exercise-23.php
+def character(str,n):
+    first_len = 2
+    if first_len>len(str):
+        first_len = len(str)
+    substr = str[:first_len]
+
+    result = ""
+    for i in range(n):
+        result = result + substr
+    return result
+
+print(character("Deepali",3))
+print(character("Hi",3))
+
+
+#Write a Python program to test whether a passed letter is a vowel or not.
+def vowel(str):
+    vowels="aeiou"
+    return
 
 
 
 
 
 
+
+
+
+
+
+
+#return 0 before output
+print "%02d" % (1,)
+print str(1).zfill(2)
 
 
 
