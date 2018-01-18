@@ -39,9 +39,14 @@ print(character("Hi",3))
 
 
 #Write a Python program to test whether a passed letter is a vowel or not.
-def vowel(str):
-    vowels="aeiou"
-    return
+def is_vowel(char):
+    all_vowels = 'aeiou'
+    return char in all_vowels
+
+print(is_vowel('a'))
+print(is_vowel('ae'))
+print(is_vowel('do'))
+
 
 
 
@@ -55,8 +60,8 @@ def vowel(str):
 
 
 #return 0 before output
-print "%02d" % (1,)
-print str(1).zfill(2)
+print ("%02d" % (1,))
+print (str(1).zfill(2))
 
 
 
