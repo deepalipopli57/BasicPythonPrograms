@@ -50,12 +50,28 @@ print(is_vowel('do'))
 
 
 
+#replace
+oldstring = 'I like Guru99'
+newstring = oldstring.replace('like', 'love')
+print(newstring)
+
+print(newstring.upper())
+print(newstring.lower())
+print(newstring.capitalize())
 
 
+#join
+print(":".join("Python3"))
 
 
+#reverse
+a = "12345"  #can use string too
+print(''.join(reversed(a)))
 
 
+#split
+a = "Deepali"
+print(a.split('l'))
 
 
 
