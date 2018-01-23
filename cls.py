@@ -24,3 +24,20 @@ class DoubleSquare:
         return self.x + self.y
 
 print(DoubleSquare(1,2).perimeter())
+
+
+#class
+class myClass():
+    def method1(self):
+        print("Good")
+
+    def method2(self):
+        print("V. Good")
+
+def main():
+    c = myClass()
+    c.method1()
+    c.method2()
+
+if __name__=="__main()__":
+    main()

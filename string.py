@@ -80,5 +80,29 @@ print ("%02d" % (1,))
 print (str(1).zfill(2))
 
 
+"""
+Summary of various fnctn
+Since Python is an object-oriented programming language, many functions can be applied to Python objects. A notable feature of Python is its indenting source statements to make the code easier to read.
 
+Accessing values through slicing - square brackets are used for slicing along with the index or indices to obtain a substring.
+In slicing, if range is declared [1:5], it can actually fetch the value from range [1:4]
+You can update Python String by re-assigning a variable to another string
+Method replace() returns a copy of the string in which the occurrence of old is replaced with new.
+Syntax for method replace: oldstring.replace("value to change","value to be replaced")
+String operators like [], [ : ], in, Not in, etc. can be applied to concatenate the string, fetching or inserting specific characters into the string, or to check whether certain character exist in the string
+Other string operations include
+Changing upper and lower case
+Join function to glue any character into the string
+Reversing string
+Split string
+"""
 
+"""
+Variables are referred to "envelop" or "buckets" where information can be maintained and referenced. Like any other programming language Python also uses a variable to store the information.
+Variables can be declared by any name or even alphabets like a, aa, abc etc.
+Variables can be re-declared even after you have declared it them for once
+In Python you cannot concatenate string with number directly, you need to declare them as a separate variable and thereafter you can concatenate number with string
+Declare local variable when you want to use it for current function
+Declare Global variable when you want to use the same variable for rest of the program
+To delete variable it uses keyword "del"
+"""

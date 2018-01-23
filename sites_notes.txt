@@ -1,0 +1,14 @@
+===python=====
+
+http://sthurlow.com/python/			7 done
+
+https://www.guru99.com/python-tutorials.html		from https://www.guru99.com/python-class-objects-object-oriented-programming-oop-s.html
+
+https://www.programiz.com/python-programming
+
+https://www.tutorialspoint.com/python/
+
+https://www.w3schools.in/python-tutorial/
+
+https://www.w3resource.com/python-exercises/				(bitbucket program link)
+==django=====
