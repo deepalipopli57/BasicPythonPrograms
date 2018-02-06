@@ -1,8 +1,8 @@
 ===python=====
 
-http://sthurlow.com/python/			7 done
+http://sthurlow.com/python/			 done
 
-https://www.guru99.com/python-tutorials.html		from https://www.guru99.com/python-class-objects-object-oriented-programming-oop-s.html
+https://www.guru99.com/python-tutorials.html		done
 
 https://www.programiz.com/python-programming
 
