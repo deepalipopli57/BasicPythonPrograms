@@ -12,3 +12,15 @@ https://www.w3schools.in/python-tutorial/       done
 
 https://www.w3resource.com/python-exercises/				(bitbucket program link)
 ==django=====
+
+https://code.djangoproject.com/wiki/Tutorials
+
+https://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
+
+https://www.codingforentrepreneurs.com/         #login with github
+
+https://github.com/twoscoops/django-twoscoops-project
+
+https://tutorial.djangogirls.org/en/
+
+https://docs.djangoproject.com/en/1.8/intro/tutorial01/
