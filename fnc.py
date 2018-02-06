@@ -77,6 +77,46 @@ def main():
 if __name__ == "__main__":
     main()
 
+# return new list
+def chng(lst):
+    lst = [1,2,3,4]
+    print ("Values are : ", lst)
+    return
+
+
+lst = [23,4,5,6,7]
+chng(lst)
+print("New list : ", lst)
+
+
+#
+def details(age):
+    try:
+        if age < 20:
+            print("Young")
+    except:
+        if age >= 26:
+            print("Mid")
+    finally:
+        print("Aged")
+
+details(0)
+
+
+#
+def avrg(first, *args):
+    return (first + sum(args) )
+
+print(avrg(2,3,6,7))
+
+#
+def a():
+    return 1,2,4
+
+a,b,c = a()
+print(a,b,c)
+
+
 
 
 """

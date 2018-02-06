@@ -4,11 +4,11 @@ http://sthurlow.com/python/			 done
 
 https://www.guru99.com/python-tutorials.html		done
 
-https://www.programiz.com/python-programming
+https://www.programiz.com/python-programming        done
 
-https://www.tutorialspoint.com/python/
+https://www.tutorialspoint.com/python/      done
 
-https://www.w3schools.in/python-tutorial/
+https://www.w3schools.in/python-tutorial/       done
 
 https://www.w3resource.com/python-exercises/				(bitbucket program link)
 ==django=====
